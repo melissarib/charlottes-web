@@ -1,0 +1,13 @@
+body {
+    background-color: #f5f5dc !important;
+}
+
+.aesthetic {
+    text-align: center;
+    color: rgb(38 38 38);
+    font-size: large;
+}
+
+p, a, a:hover {
+    color:rgb(38 38 38) !important;
+}
